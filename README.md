@@ -35,7 +35,8 @@ TitanTalk is a comprehensive video conferencing application built using open-sou
 
 ## 📱 Screenshots
 ### Main Screen
-<img src="/images/main.jpg" alt="Main Screen" width="300">
+<p align="center"><img src="/images/main.jpg" alt="Main Screen" width="300"></p>
+
 ### Video Conferencing
 ![Video Conferencing](/images/feat.jpg)
 

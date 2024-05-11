@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "264604279241",
+    "project_id": "titantalk-db559",
+    "storage_bucket": "titantalk-db559.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264604279241:android:206900616ee6fc170d4818",
+        "android_client_info": {
+          "package_name": "com.example.titan_talk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264604279241-5eiv24vuub81f87ehh913srtvrv73k5m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.titan_talk",
+            "certificate_hash": "53cf1a36eadae944eb61264fba5d89604805254a"
+          }
+        },
+        {
+          "client_id": "264604279241-rr004fo6i8j23va0d1fbrbkftto84bid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0oB-KhW51caDnFcYP9vVBTtdlw2e-500"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264604279241-rr004fo6i8j23va0d1fbrbkftto84bid.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "264604279241-5ss9lbb5hbgdsok5sujq53p86rr913h4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.videoConf"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

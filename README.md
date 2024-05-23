@@ -51,6 +51,10 @@ TitanTalk is a comprehensive video conferencing application built using open-sou
 ### Meet Screen
 ![Meet Screen](/images/meet.jpg)
 
+### AI Assistant
+<p><img src="/images/image1.jpg" alt="AI Assistant" width="300">
+<img src="/images/imag2.jpg" alt="AI Assistant" width="300"></p>
+
 ### User Profile
 ![User Profile](/images/profile.jpg)
 
